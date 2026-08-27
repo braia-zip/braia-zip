@@ -79,6 +79,22 @@ Desenvolvedor com atuação em desenvolvimento web, automação de processos e s
 
 ---
 
+## Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+FATEC Zona Leste — cursando (2026–2029)
+
+**Técnico em Gestão de TI**
+ETEC — concluído (2023–2025)
+
+**Certificações**
+- Lógica de programação com JavaScript — Alura (2025)
+- Análise e Desenvolvimento de Sistemas — Fundação Paulistana (2024)
+- Lógica de programação — Fundação Paulistana (2024)
+- Competec (Gestão de TI) — PET-SI EACH-USP (2024)
+
+---
+
 ## Contato
 
 <div align="center">
